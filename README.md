@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 مرحبًا، أنا خالد بوجلال
-### المبتكر المتعلم المتشرس | The Fierce Learning Innovator
+###| The Fierce Learning Innovator
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=722F37&center=true&vCenter=true&width=435&lines=Founder+%26+CEO+of+JOOKA;Supply+Chain+Strategist;AI+Agents+%26+Vibe+Coding;Problem+Solver+Extraordinaire)](https://git.io/typing-svg)
 
